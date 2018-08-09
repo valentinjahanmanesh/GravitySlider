@@ -1,5 +1,5 @@
 # GravitySlider
-this is a cool range (Price, Age, Size, Weight) slider written with Swift 4 <3
+### this is a cool range (Price, Age, Size, Weight) slider written with Swift 4 <3
  <br/>
 
 ![Alt Text](https://cdn.rawgit.com/farshadjahanmanesh/GravitySlider/155eb6c9/GravitySlider/highlighted.gif)
