@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		EF2CFF6C211C33F100D1AD9A /* GravitySlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF2CFF6B211C33F100D1AD9A /* GravitySlider.swift */; };
+		EF2CFF70211C398900D1AD9A /* normal.gif in Resources */ = {isa = PBXBuildFile; fileRef = EF2CFF6F211C398900D1AD9A /* normal.gif */; };
+		EF2CFF72211C39BF00D1AD9A /* highlighted.gif in Resources */ = {isa = PBXBuildFile; fileRef = EF2CFF71211C39BF00D1AD9A /* highlighted.gif */; };
 		EF5A75CB2111F17B008FF260 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF5A75CA2111F17B008FF260 /* AppDelegate.swift */; };
 		EF5A75CD2111F17B008FF260 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF5A75CC2111F17B008FF260 /* ViewController.swift */; };
 		EF5A75D02111F17B008FF260 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF5A75CE2111F17B008FF260 /* Main.storyboard */; };
@@ -17,8 +19,8 @@
 
 /* Begin PBXFileReference section */
 		EF2CFF6B211C33F100D1AD9A /* GravitySlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GravitySlider.swift; sourceTree = "<group>"; };
-		EF2CFF6D211C386300D1AD9A /* highlighted.MP4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = highlighted.MP4; sourceTree = "<group>"; };
-		EF2CFF6E211C386300D1AD9A /* normal.MP4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = normal.MP4; sourceTree = "<group>"; };
+		EF2CFF6F211C398900D1AD9A /* normal.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = normal.gif; sourceTree = "<group>"; };
+		EF2CFF71211C39BF00D1AD9A /* highlighted.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = highlighted.gif; sourceTree = "<group>"; };
 		EF5A75C72111F17B008FF260 /* GravitySlider.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GravitySlider.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF5A75CA2111F17B008FF260 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EF5A75CC2111F17B008FF260 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,8 +60,8 @@
 		EF5A75C92111F17B008FF260 /* GravitySlider */ = {
 			isa = PBXGroup;
 			children = (
-				EF2CFF6D211C386300D1AD9A /* highlighted.MP4 */,
-				EF2CFF6E211C386300D1AD9A /* normal.MP4 */,
+				EF2CFF6F211C398900D1AD9A /* normal.gif */,
+				EF2CFF71211C39BF00D1AD9A /* highlighted.gif */,
 				EF5A75CA2111F17B008FF260 /* AppDelegate.swift */,
 				EF5A75CC2111F17B008FF260 /* ViewController.swift */,
 				EF5A75CE2111F17B008FF260 /* Main.storyboard */,
@@ -131,7 +133,9 @@
 			files = (
 				EF5A75D52111F17D008FF260 /* LaunchScreen.storyboard in Resources */,
 				EF5A75D22111F17D008FF260 /* Assets.xcassets in Resources */,
+				EF2CFF72211C39BF00D1AD9A /* highlighted.gif in Resources */,
 				EF5A75D02111F17B008FF260 /* Main.storyboard in Resources */,
+				EF2CFF70211C398900D1AD9A /* normal.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
