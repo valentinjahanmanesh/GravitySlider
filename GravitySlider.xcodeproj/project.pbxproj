@@ -17,6 +17,8 @@
 
 /* Begin PBXFileReference section */
 		EF2CFF6B211C33F100D1AD9A /* GravitySlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GravitySlider.swift; sourceTree = "<group>"; };
+		EF2CFF6D211C386300D1AD9A /* highlighted.MP4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = highlighted.MP4; sourceTree = "<group>"; };
+		EF2CFF6E211C386300D1AD9A /* normal.MP4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = normal.MP4; sourceTree = "<group>"; };
 		EF5A75C72111F17B008FF260 /* GravitySlider.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GravitySlider.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF5A75CA2111F17B008FF260 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EF5A75CC2111F17B008FF260 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,8 @@
 		EF5A75C92111F17B008FF260 /* GravitySlider */ = {
 			isa = PBXGroup;
 			children = (
+				EF2CFF6D211C386300D1AD9A /* highlighted.MP4 */,
+				EF2CFF6E211C386300D1AD9A /* normal.MP4 */,
 				EF5A75CA2111F17B008FF260 /* AppDelegate.swift */,
 				EF5A75CC2111F17B008FF260 /* ViewController.swift */,
 				EF5A75CE2111F17B008FF260 /* Main.storyboard */,

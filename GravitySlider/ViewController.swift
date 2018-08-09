@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         var defaultSettings = GravitySlider.Settings()
         defaultSettings.colors.circle = .red
+        defaultSettings.colors.textContainerhighlighter = .red
         slider?.settings = defaultSettings
     }
 }
