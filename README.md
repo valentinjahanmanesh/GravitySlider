@@ -51,6 +51,7 @@ this is a cool range (Price, Age, Size, Weight) slider .  <br/>
 Just move/copy the GravitySlider.swift file to your project
 you can use it in InterfaceBuilder and change whatever you want like this
 ```swift
+@IBOutlet weak var slider : GravitySlider?
 override func viewDidLoad() {
         super.viewDidLoad()
         var defaultSettings = GravitySlider.Settings()
